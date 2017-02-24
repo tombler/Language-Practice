@@ -10,9 +10,9 @@ A work-in-progress command-line app for practicing a new language through text-t
 
 ###Usage 
 
-`python practice.py` - starts the program
-`add` - add a word or phrase and its translation to your vocabulary list
-`q` - quits the program
+* `python practice.py` - starts the program
+* `add` - add a word or phrase and its translation to your vocabulary list
+* `q` - quits the program
 
 Pressing Enter randomly chooses a method to deliver the word or phrase. The program will either:
 
